@@ -1,3 +1,3 @@
 Hello Everyone Iam Ansh Kumar , Student of National University of Computer and Emerging Science karachi campus ,Starting my journey by pursing the degree program in Artifical Intelligence . My Interest in to explore How Ai models works and These can be made,Along with 
 My goal is to build a real-world AI/ML solution for the financial market, that focuses on solving a meaningful problem analyzes market data and identifies patterns or forecasts a clearly defined financial metric?”.
-I don't want to build a project just to submit it and get good score or gpa, absolutly. not ! . I want to build something that solves a real problem.
+I don't want to build a project just to submit it and get good score or gpa, absolutly. not ! . I want to build something that solves a real problem. I am willing to invest as much time as necessary to build it properly.
